@@ -1,4 +1,4 @@
-package Aula1;
+package Aula2;
 
 public class HelloWorld {
     public static void main(String[] args) {

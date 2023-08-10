@@ -1,4 +1,4 @@
-package Aula2;
+package Aula3;
 import java.util.Scanner;
 
 public class Ex2_lanches {
