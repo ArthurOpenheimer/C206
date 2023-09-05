@@ -15,7 +15,6 @@ public class Main {
         int opcao = 0;
 
         do{
-            // a.Adicionar livros a estante.b.Mostrar as informações da estantee dos livros que estão nela.c.Apresentar  a  porcentagem  de  livro  de  cada  gênero  literário, são  considerados  dois gêneros  principais  em  seu  acervo drama  e  suspense,  porém  existem  outros  tipos também, sendo assim apresente a % de livros de Drama, Suspense e outros gêneros.d.Apresentarinformações do livro e do autor do livro com mais e menos páginas.
             System.out.println();
             System.out.println("Digite a opção desejada: ");
             System.out.println("1 - Adicionar livro");
