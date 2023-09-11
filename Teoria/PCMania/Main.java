@@ -115,8 +115,10 @@ public class Main {
                     System.out.println();
                     System.out.println("Computadores comprados: ");
                     for(int i = 0; i < aux; i++){
-                        cliente.carrinho[i].mostraPCConfigs();
-                        System.out.println();
+                        if(cliente.carrinho[i] != null){
+                            cliente.carrinho[i].mostraPCConfigs();
+                        }
+                            System.out.println();
                     }
                     System.out.println("Total da compra: " + cliente.calculaTotalCompra());
                     break;
