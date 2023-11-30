@@ -1,4 +1,4 @@
-package Arthur_Openheimer_225;
+package AV1_Lab;
 
 public class Equipamento {
     

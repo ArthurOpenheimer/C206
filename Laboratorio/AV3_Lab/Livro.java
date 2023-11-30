@@ -1,4 +1,4 @@
-package AV3_Arthur_Openheimer_225;
+package AV3_Lab;
 
 public class Livro implements Comparable<Livro>{
     

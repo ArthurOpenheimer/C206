@@ -1,4 +1,4 @@
-package AV2_Arthur_Openheimer_225;
+package AV2_Lab;
 
 public class Gennin extends Ninja implements Treinamento, Batalhar {
     
